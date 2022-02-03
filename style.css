@@ -1,0 +1,41 @@
+html{
+    scroll-behavior: smooth;
+}
+#homee{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#participants{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    margin-right:100px;
+    margin-top: 50px;
+}
+#FAQ{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    margin-right:100px;
+    margin-top: 50px;
+}
+a{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+hr{
+    background-color: black;
+}
+p{
+    text-align: center;
+    outline: 3px black solid;
+    color: black;
+}
+.ans{
+    color: white;
+}
